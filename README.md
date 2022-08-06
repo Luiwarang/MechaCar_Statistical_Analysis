@@ -2,7 +2,7 @@
 
 ## ***OVERVIEW***
 
-### The purpose of this analysis is to provide AutosRUs with insightful statistical information in order for the manifacturing team to be able to help manage the problems currently being experienced in their newest prototype: MechaCar.
+### The purpose of this analysis is to provide AutosRUs with insightful statistical information in order for the manufacturing team to be able to help manage the problems currently being experienced in their newest prototype: MechaCar.
 
 ## ***Linear Regression to Predict MPG***
 ![Linear Regression](Resources/MechaCar_Multi_Linear.png)
@@ -50,15 +50,15 @@
 
 ### Thinking of a statistical study that can quantify how MechaCar against the competition, we definitely need to use an ANOVA Test, we need to look after the following considerentions:
 
-#### The metrics to be used in the test need to correspond to the ones of most interest for the consumers, there are many metrics in the market but we will focus in the following 4: combined fuel efficiency, horse power, maintenance cost and safety rating.
+#### a) The metrics to be used in the test need to correspond to the ones of most interest for the consumers, there are many metrics in the market but we will focus in the following 4: combined fuel efficiency, horse power, maintenance cost and safety rating.
 
-#### The null and alternative hypotheses will be the following:
-####    H0: The means of all competitors are equal for all the metrics
-####    Ha: The means of MechaCar are superior in all the metrics
+#### b) The null and alternative hypotheses will be the following:
+####    *-H0: The means of all competitors are equal for all the metrics*
+####    *-Ha: The means of MechaCar are superior in all the metrics*
 
-#### The statistical test to use as mentioned above, would be the ANOVA test because it allows us to make a comparison across more than two samples or groups and we want to compare MechaCar with at least 5 different competitors.
+#### c) The statistical test to use as mentioned above, would be the ANOVA test because it allows us to make a comparison across more than two samples or groups and we want to compare MechaCar with at least 5 different competitors.
 
-#### In order to perform the test we need to get a representative sample of the 5 different competitors about the four metrics we mentioned above, so we can be able to get our statics information about the mean of the fuel efficiency, horse power, maintenance cost and safety rating for all competitors, including MechaCar.
+#### d) In order to perform the test we need to get a representative sample of the 5 different competitors about the four metrics we mentioned above, so we can be able to get our statics information about the mean of the fuel efficiency, horse power, maintenance cost and safety rating for all competitors, including MechaCar.
 
 
 
